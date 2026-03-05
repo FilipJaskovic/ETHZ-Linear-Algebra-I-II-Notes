@@ -13,7 +13,8 @@ for the following limited purposes:
 1. Viewing the Material.
 2. Downloading and retaining a copy of the Material for personal,
    non-commercial study.
-3. Sharing the URL of the GitHub repository that hosts the Material.
+3. Sharing the URL of the GitHub repository that hosts the Material, and
+   only that URL as the sole permitted method of sharing.
 
 No other rights are granted.
 
@@ -33,6 +34,11 @@ Without prior written consent from Filip Jaskovic, you may not:
 
 Any use of the Material outside the limited permissions above is prohibited.
 These permissions terminate automatically if you violate this license.
+
+For clarity: sharing is permitted only by sending people the GitHub repository
+link. Sharing the PDF file, extracted pages, screenshots intended as
+substitutes for the PDF, or mirrored copies of the repository contents is not
+permitted without prior written consent.
 
 THE MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF ACCURACY, COMPLETENESS,
