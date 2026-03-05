@@ -4,7 +4,7 @@ These are my notes for Linear Algebra I and II. This repository is very much a w
 
 If you find an issue that you want fixed, open an issue here and I will take a look.
 
-Linear Algebra II is in pretty good shape, so I do not expect major issues there. I will do a bigger cleanup pass eventually when I recap all the material.
+As I kept writing these notes, I got better at doing it, so I expect Linear Algebra II to be fairly clean even in its current state. I will still do a bigger cleanup pass eventually when I recap all the material.
 
 > [!IMPORTANT]
 > Please read this first.
