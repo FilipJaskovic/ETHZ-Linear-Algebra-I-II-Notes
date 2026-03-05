@@ -2,7 +2,7 @@
 
 These are my notes for Linear Algebra I and II. I am writing these notes during the lectures, so there may be typos or rough edges. Please take that into consideration when using them.
 
-## Warning
+## Warning: Please Read This First
 
 This repository is very much a work in progress by definition. I am writing these notes live during the lectures, so there may be janky things that I ignored instead of fixing immediately.
 
