@@ -12,6 +12,8 @@ Linear Algebra II is in pretty good shape, so I do not expect major issues there
 
 I uploaded these notes only because I have seen many people say that they do not like Prof. Biran's notes. These notes were not originally intended for distribution.
 
-The PDF must not be redistributed without my consent. Sharing the GitHub repository link is fine, since people can then read this README and will eventually get the fixed version here.
+You may use the notes for personal, non-commercial study and keep a downloaded copy for yourself. You may share the GitHub repository link only.
+
+Do not print, redistribute, forward, mirror, reupload, or otherwise share the PDF itself without my prior written consent. See [LICENSE](LICENSE) for the binding terms.
 
 Thank you for your time.
