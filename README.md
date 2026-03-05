@@ -8,7 +8,7 @@ If you find an issue that you want fixed, open an issue here and I will take a l
 
 Linear Algebra II is in pretty good shape, so I do not expect major issues there. I will do a bigger cleanup pass eventually when I recap all the material.
 
-> [!WARNING]
+> [!IMPORTANT]
 > Please read this first.
 >
 > I uploaded these notes only because I have seen many people say that they do not like Prof. Biran's notes. These notes were not originally intended for distribution.
