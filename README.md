@@ -1,8 +1,6 @@
 # ETHZ Linear Algebra I & II Notes
 
-These are my notes for Linear Algebra I and II. I am writing these notes during the lectures, so there may be typos or rough edges. Please take that into consideration when using them.
-
-This repository is very much a work in progress by definition. I am writing these notes live during the lectures, so there may be janky things that I ignored instead of fixing immediately.
+These are my notes for Linear Algebra I and II. This repository is very much a work in progress by definition, since I am writing these notes live during the lectures, so there may be typos, rough edges, or janky things that I ignored instead of fixing immediately.
 
 If you find an issue that you want fixed, open an issue here and I will take a look.
 
