@@ -16,4 +16,6 @@ You may use the notes for personal, non-commercial study and keep a downloaded c
 
 Do not print, redistribute, forward, mirror, reupload, or otherwise share the PDF itself. If you want to share these notes with someone, send them the GitHub repository link and nothing else. See [LICENSE](LICENSE) for the binding terms.
 
-Thank you for your time.
+The reason I am doing this is that I want people to eventually get the final cleaned-up version. I do not want my name connected to copies of these notes that I do not yet consider to be of sufficient quality, and I do not want rough versions of them flying around out of context.
+
+Thank you in advance for understanding.
